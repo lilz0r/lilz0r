@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Lily! 👋
 
 <!--
 **lilz0r/lilz0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
